@@ -5,6 +5,7 @@ Video games have been a long-time hobby and passion of mine since I was a kid. W
 
 ## Table of Contents
 - [Data Dictionary](#data-dictionary)
+- [Data Cleaning](#data-cleaning)
 - [Data Schema](#data-schema)
 
 # Data Dictionary
@@ -38,4 +39,6 @@ To facilitate this process, i've have provided a SQL script that performs the ne
 You can access the SQL file for data cleaning [here](https://github.com/rml-lee/MYSQL-Tableau-Video-Games-Project/blob/main/Data%20Cleaning%20-%20Stored%20Procedure.sql).
 
 ## Data Schema
+This is the current Data Schema that will be used for analysis after Data Cleaning.
+
 <img src="https://github.com/rml-lee/MYSQL-Tableau-Video-Games-Project/assets/160198611/6c841049-eb36-4b04-bdc9-df89e3f2a687" alt="Description" width="500"/>
