@@ -1,6 +1,6 @@
 # Video-Games-Project
 
-# Breifing
+# Briefing
 
 
 # Data Dictionary
