@@ -1,12 +1,13 @@
 # Video-Games-Project
 
-# Briefing
-
-
-# Data Dictionary
+# Business Task
+Video games have been a long-time hobby and passion of mine since I was a kid. We will be analyzing this dataset 
 
 ## Table of Contents
-- [Video Game Sales and Ratings](#video-game-data-columns)
+- [Data Dictionary](#data-dictionary)
+- [Data Schema](#data-schema)
+
+# Data Dictionary
 
 ## Video Game Sales and Ratings
 
