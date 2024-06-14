@@ -4,9 +4,13 @@
 Video games have been a long-time hobby and passion of mine since I was a kid. We will be analyzing this dataset 
 
 ## Table of Contents
+- [Data Source](#data-source)
 - [Data Dictionary](#data-dictionary)
 - [Data Cleaning](#data-cleaning)
 - [Data Schema](#data-schema)
+
+# Data Source
+This dataset has been obtained from [Kaggle](https://www.kaggle.com/datasets/thedevastator/video-game-sales-and-ratings).
 
 # Data Dictionary
 
@@ -43,7 +47,9 @@ This is the current Data Schema that will be used for analysis after Data Cleani
 
 <img src="https://github.com/rml-lee/MYSQL-Tableau-Video-Games-Project/assets/160198611/6c841049-eb36-4b04-bdc9-df89e3f2a687" alt="Description" width="500"/>
 
-## Data Analysis
+# Data Analysis
 
 
-# Summary/Findings
+# Visualization/Reporting
+
+## Summary/Findings
