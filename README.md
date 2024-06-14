@@ -8,6 +8,8 @@ Video games have been a long-time hobby and passion of mine since I was a kid. W
 - [Data Dictionary](#data-dictionary)
 - [Data Cleaning](#data-cleaning)
 - [Data Schema](#data-schema)
+- [Data Analysis](#data-analysis)
+- [Summary/Findings](#summaryfindings)
 
 # Data Source
 This dataset has been obtained from [Kaggle](https://www.kaggle.com/datasets/thedevastator/video-game-sales-and-ratings).
