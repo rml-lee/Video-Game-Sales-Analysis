@@ -43,4 +43,7 @@ This is the current Data Schema that will be used for analysis after Data Cleani
 
 <img src="https://github.com/rml-lee/MYSQL-Tableau-Video-Games-Project/assets/160198611/6c841049-eb36-4b04-bdc9-df89e3f2a687" alt="Description" width="500"/>
 
+## Data Analysis
+
+
 # Summary/Findings
