@@ -30,5 +30,4 @@
 | Rating            | The ESRB rating of the game, such as E for Everyone, T for Teen, or M for Mature. |
 
 ## Data Schema
-![video_games schema](https://github.com/rml-lee/MYSQL-Tableau-Video-Games-Project/assets/160198611/6c841049-eb36-4b04-bdc9-df89e3f2a687)
-
+<img src="https://github.com/rml-lee/MYSQL-Tableau-Video-Games-Project/assets/160198611/6c841049-eb36-4b04-bdc9-df89e3f2a687" alt="Description" width="500"/>
