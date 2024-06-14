@@ -19,7 +19,7 @@ FROM
     video_games
 ORDER BY 1 ASC;
 
--- year_of_release: year range in this data set goes from 1980 to 2017 chronologically. Then skips to year 2020.
+-- year_of_release: Year range in this data set goes from 1980 to 2017 chronologically. Then it skips to year 2020.
 
 -- critic_score, critic_count, user_score, user_count, developer, and rating contain NULL values.
 
