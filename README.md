@@ -1,7 +1,7 @@
 # Video-Games-Project
 
 # Business Task
-Video games have been a long-time hobby and passion of mine since I was a kid. We will be analyzing this dataset 
+Video games have been a long-time hobby and passion of mine. I've been playing video game since the 90's and it has been very i We will be analyzing this dataset 
 
 ## Table of Contents
 - [Data Source](#data-source)
@@ -55,3 +55,6 @@ After cleaning the data, this is our schema that will be used throughout this pr
 The provided SQL script contains a set of questions with queries used to gather insight about this dataset using MYSQL. You can access the SQL file [here](https://github.com/rml-lee/MYSQL-Tableau-Video-Games-Project/blob/main/Video%20Games%20Project.sql).
 
 # Analysis/Findings
+I will conclude by providing an analysis of the results from a few of the questions provided. This section will also include visuals for our data and discussing the implications and potential impact on the business or research problem at hand. The goal is to provide a thorough and actionable understanding of the data, guiding informed decision-making.
+
+You can review the results here.
