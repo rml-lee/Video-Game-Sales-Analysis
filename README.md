@@ -9,7 +9,7 @@ Video games have been a long-time hobby and passion of mine since I was a kid. W
 - [Data Cleaning](#data-cleaning)
 - [Data Schema](#data-schema)
 - [Data Transformation](#data-transformation)
-- [Summary/Findings](#summaryfindings)
+- [Analysis/Findings](#analysisfindings)
 
 # Data Source
 This dataset has been obtained from [Kaggle](https://www.kaggle.com/datasets/thedevastator/video-game-sales-and-ratings).
@@ -53,4 +53,4 @@ After cleaning the data, this is our schema that will be used throughout this pr
 # Data Transformation
 The provided SQL script contains a set of questions with queries used to gather insight about this dataset using MYSQL. You can access the SQL file [here](https://github.com/rml-lee/MYSQL-Tableau-Video-Games-Project/blob/main/Video%20Games%20Project.sql).
 
-# Summary/Findings
+# Analysis/Findings
