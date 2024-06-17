@@ -29,6 +29,6 @@ Developing a game within one of the sub-genres of action games will have the hig
 
 
 
-## 9. What is the historical sales volume of the top 5 publishers from 1995 to 2015?
+## 9. How has the sales distribution among the top 5 publishers varied over time?
 ![Area Chart](https://github.com/rml-lee/MYSQL-Tableau-Video-Games-Project/assets/160198611/e7ab02a8-01b2-4d1c-89f7-1b43f1cc96bc)
 Nintendo was the biggest publisher during the mid 2000's. This was due to the Nintendo Wii being a major success. It was the most popular console during the 7th gen with Wii Sports (published by Nintendo) being the fourth selling game of all time. EA and Activision were right behind them in terms of sales. 

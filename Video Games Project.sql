@@ -193,7 +193,7 @@ LIMIT 10;
 
 
 
--- 9. What is the historical sales volume of the top 5 publishers from 1995 to 2015?
+-- 9. How has the sales distribution among the top 5 publishers varied over time?
 SELECT
     year_of_release,
     publisher,
