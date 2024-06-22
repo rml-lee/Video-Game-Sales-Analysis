@@ -7,8 +7,6 @@
 
 # -----------------------------------------------------------------------------------------------------------
 
-# Data Analysis
-
 
 -- 1. Which platform has the largest library of software?
 SELECT
@@ -19,8 +17,6 @@ FROM
 GROUP BY 1
 ORDER BY 2 DESC
 LIMIT 1;
-
-
 
 
 
@@ -211,7 +207,3 @@ WHERE
     critic_score IS NOT NULL
 GROUP BY 1
 ORDER BY 2 DESC;
-
-
-
-
