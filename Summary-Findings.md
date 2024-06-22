@@ -16,7 +16,8 @@ Recommendations:
 It's important to customize game development and marketing strategies to suit regional tastes. When doing a Action, Sports, or FPS, North America or Europe have the highest chance for success. When it comes to RPG's or Action games, Japan is a great market to tap into.
 
 ## 5. What has been the highest performing genre per year along with it's number of releases?
-![Dual Combination](https://github.com/rml-lee/MYSQL-Tableau-Video-Games-Project/assets/160198611/4dd97733-6669-4ce7-a187-270b7c9fd4ba)
+![Dual Combination](https://github.com/rml-lee/MYSQL-Tableau-Video-Games-Project/assets/160198611/125c2a9b-90d9-4747-814b-c23512bed499)
+
 
 During the '90s, platformers and role-playing games were the most popular genres. This was due to the debut of platforming games like Super Mario Bros. and Sonic the Hedgehog, and RPGs such as Dragon Quest being highly successful in Japan. Pokemon was also a very popular RPG worldwide.
 
