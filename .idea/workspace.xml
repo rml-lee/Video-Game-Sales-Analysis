@@ -4,14 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7058ab4d-18db-440a-ab94-6298a1e3854f" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
+    <list default="true" id="7058ab4d-18db-440a-ab94-6298a1e3854f" name="Changes" comment="update">
+      <change afterPath="$PROJECT_DIR$/Datasets/Video_Games (original).csv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/dataSources/d0e65635-8cae-4ace-a1f2-59cfa10a7b5a.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/d0e65635-8cae-4ace-a1f2-59cfa10a7b5a.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/d0e65635-8cae-4ace-a1f2-59cfa10a7b5a/storage_v2/_src_/schema/project_2.jPSpyg.zip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_6_14_24,_6_21_PM_[Changes]/shelved.patch" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_6_14_24__6_21_PM__Changes_.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Video Games Project.sql" beforeDir="false" afterPath="$PROJECT_DIR$/Video Games Project.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data Cleaning &amp; Exploration - Video Games Data.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Data Cleaning &amp; Exploration - Video Games Data.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Datasets/Video_Games.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Datasets/video_games (cleaned).csv" beforeDir="false" afterPath="$PROJECT_DIR$/Datasets/video_games (cleaned).csv" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,7 +53,7 @@
   <component name="GithubPullRequestsUISettings">{
   &quot;selectedUrlAndAccountId&quot;: {
     &quot;url&quot;: &quot;https://github.com/rml-lee/MYSQL-Tableau-Video-Games-Project.git&quot;,
-    &quot;accountId&quot;: &quot;ffcdf3e5-e45e-48f5-9da4-368cf9d2aa1a&quot;
+    &quot;accountId&quot;: &quot;4d16bd33-7ea1-4be1-b1b7-8eca25126e56&quot;
   }
 }</component>
   <component name="ProjectColorInfo">{
@@ -66,27 +65,27 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenDatabaseViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "database.data.extractors.current.export.id": "Comma-separated (CSV)_id",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "/Users/raheem-gsu/DataGripProjects/MYSQL-Tableau-Video-Games-Project",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenDatabaseViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;database.data.extractors.current.export.id&quot;: &quot;Comma-separated (CSV)_id&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/raheem-gsu/DataGripProjects/MYSQL-Tableau-Video-Games-Project&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   },
-  "keyToStringList": {
-    "DatabaseDriversLRU": [
-      "mysql"
+  &quot;keyToStringList&quot;: {
+    &quot;DatabaseDriversLRU&quot;: [
+      &quot;mysql&quot;
     ]
   }
-}]]></component>
+}</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -104,7 +103,19 @@
       <option name="presentableId" value="Default" />
       <updated>1719073811034</updated>
       <workItem from="1719073812096" duration="484000" />
+      <workItem from="1719077017557" duration="252000" />
+      <workItem from="1719077821259" duration="21000" />
+      <workItem from="1719080187481" duration="3022000" />
     </task>
+    <task id="LOCAL-00001" summary="update">
+      <option name="closed" value="true" />
+      <created>1719077241591</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1719077241591</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
