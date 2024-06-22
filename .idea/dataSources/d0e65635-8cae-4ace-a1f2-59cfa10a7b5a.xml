@@ -933,7 +933,7 @@
       <CollationName>utf8mb4_0900_ai_ci</CollationName>
     </schema>
     <schema id="297" parent="1" name="project_2">
-      <LastIntrospectionLocalTimestamp>2024-06-22.18:47:38</LastIntrospectionLocalTimestamp>
+      <LastIntrospectionLocalTimestamp>2024-06-22.19:54:13</LastIntrospectionLocalTimestamp>
       <CollationName>utf8mb4_0900_ai_ci</CollationName>
     </schema>
     <schema id="298" parent="1" name="project_3">
@@ -1031,7 +1031,7 @@
       <Position>14</Position>
     </column>
     <column id="322" parent="307" name="user_count">
-      <DasType>text|0s</DasType>
+      <DasType>double|0s</DasType>
       <Position>15</Position>
     </column>
     <column id="323" parent="307" name="developer">
