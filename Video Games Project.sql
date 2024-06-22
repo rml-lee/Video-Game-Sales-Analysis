@@ -1,30 +1,9 @@
 # Video Games Market Analysis
 
-# Data Cleaning
-
-# Call Stored Procedure
-
-CALL clean_data();
 
 # -----------------------------------------------------------------------------------------
 
-
-# Descriptive Statistics
-
-
--- Review year range
-SELECT DISTINCT
-    year_of_release
-FROM
-    video_games
-ORDER BY 1 ASC;
-
--- year_of_release: Year range in this data set goes from 1980 to 2017 chronologically. Then it skips to year 2020.
-
--- critic_score, critic_count, user_score, user_count, developer, and rating contain NULL values.
-
--- Note: Sales listed aren't revenue, they are physical sales figures!
-
+-- Note: Sales in this dataset aren't listed as revenue, they are physical sales figures!
 
 # -----------------------------------------------------------------------------------------------------------
 
@@ -40,6 +19,8 @@ FROM
 GROUP BY 1
 ORDER BY 2 DESC
 LIMIT 1;
+
+
 
 
 

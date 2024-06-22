@@ -5,8 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7058ab4d-18db-440a-ab94-6298a1e3854f" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/d0e65635-8cae-4ace-a1f2-59cfa10a7b5a.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/d0e65635-8cae-4ace-a1f2-59cfa10a7b5a.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/d0e65635-8cae-4ace-a1f2-59cfa10a7b5a/storage_v2/_src_/schema/project_2.jPSpyg.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_6_14_24,_6_21_PM_[Changes]/shelved.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_6_14_24__6_21_PM__Changes_.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Summary-Findings.md" beforeDir="false" afterPath="$PROJECT_DIR$/Summary-Findings.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Video Games Project.sql" beforeDir="false" afterPath="$PROJECT_DIR$/Video Games Project.sql" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,22 +66,50 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenDatabaseViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;database.data.extractors.current.export.id&quot;: &quot;Comma-separated (CSV)_id&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/raheem-gsu&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenDatabaseViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "database.data.extractors.current.export.id": "Comma-separated (CSV)_id",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "/Users/raheem-gsu/DataGripProjects/MYSQL-Tableau-Video-Games-Project",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable",
+    "vue.rearranger.settings.migration": "true"
   },
-  &quot;keyToStringList&quot;: {
-    &quot;DatabaseDriversLRU&quot;: [
-      &quot;mysql&quot;
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "mysql"
     ]
   }
-}</component>
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-PY-241.17890.14" />
+        <option value="bundled-python-sdk-5b207ade9991-7e9c3bbb6e34-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-241.17890.14" />
+      </set>
+    </attachedChunks>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7058ab4d-18db-440a-ab94-6298a1e3854f" name="Changes" comment="" />
+      <created>1719073811034</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1719073811034</updated>
+      <workItem from="1719073812096" duration="484000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="RECENT_FILTERS">
       <map>
