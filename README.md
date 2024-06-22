@@ -49,7 +49,7 @@ You can access the SQL file for data cleaning [here](https://github.com/rml-lee/
 ## Data Schema
 After cleaning the data, this is our schema that will be used throughout this project.
 
-<img src="https://github.com/rml-lee/MYSQL-Tableau-Video-Games-Project/assets/160198611/6c841049-eb36-4b04-bdc9-df89e3f2a687" alt="Description" width="500"/>
+<img src="https://github.com/rml-lee/MYSQL-Tableau-Video-Games-Project/blob/main/video_games%20schema.png" alt="Description" width="500"/>
 
 # Data Transformation
 The provided SQL script contains a set of questions with queries used to gather insight about this dataset using MYSQL. You can access the SQL file [here](https://github.com/rml-lee/MYSQL-Tableau-Video-Games-Project/blob/main/Video%20Games%20Project.sql).
