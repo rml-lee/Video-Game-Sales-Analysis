@@ -9,7 +9,7 @@ Tableau - [Link](https://public.tableau.com/views/Workbook1VideoGamesProject_171
 
 - Europe is the second largest with Action, Sports, and First-Person Shooter games as the most popular.
 
-- Japan is the third largest market with Role-Playing and Action games being the most popular.
+- Japan is the third-largest market with Role-Playing and Action games being the most popular.
 
 - For all other regions, they follow a similar trend as North America and Europe with Action, Sports, and First-Person Shooters being the most popular.
 
@@ -23,7 +23,7 @@ Tableau - [Link](https://public.tableau.com/views/Workbook1VideoGamesProject_171
 
 - During the '90s, platformers and role-playing games were the most popular genres. This was due to the debut of platforming games like Super Mario Bros. and Sonic the Hedgehog, and RPGs such as Dragon Quest being highly successful in Japan. Pokemon was also a very popular RPG worldwide.
 
-- As we go into the 2000's, you see the popularity of action games increase significantly. This is due to video games market expanding and becoming more popular as a medium. The action game genre encompasses many different genres, including platformers.
+- As we go into the 2000's, the popularity of action games increase significantly. This is due to video games market expanding and becoming more popular as a medium. The action game genre encompasses many different genres, including platformers.
 
 - Recommendations: Developing a game within one of the sub-genres of action games will have the highest chance for success.
 
