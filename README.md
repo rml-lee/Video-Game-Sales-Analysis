@@ -51,6 +51,7 @@ In this section, you'll find a Jupyter Notebook that demonstrates my proficiency
 You can access the Jupyter Notebook file [here](https://github.com/rml-lee/MYSQL-Tableau-Pizza-Project/blob/main/Data%20Cleaning%20%26%20Exploration%20-%20Pizza%20Project.ipynb).
 
 ## Data Schema
+
 After cleaning the data, this is our schema that will be used throughout this project.
 
 <img src="https://github.com/rml-lee/MYSQL-Tableau-Video-Games-Project/blob/main/video_games%20schema.png" alt="Description" width="450"/>
@@ -63,7 +64,9 @@ Tools used:
 | <img src="https://github.com/rml-lee/MYSQL-Tableau-Video-Games-Project/assets/160198611/a1f80d2c-f675-4c97-b497-f21377fd0042" width="55" height="55"/> |
 
 
-The provided SQL script contains a set of questions with queries used to gather insight about this dataset using MySQL. You can access the SQL file [here](https://github.com/rml-lee/MYSQL-Tableau-Video-Games-Project/blob/main/Video%20Games%20Project.sql).
+The provided SQL script contains a set of questions with queries used to gather insight about this dataset using MySQL. 
+
+You can access the SQL file [here](https://github.com/rml-lee/MYSQL-Tableau-Video-Games-Project/blob/main/Video%20Games%20Project.sql).
 
 # Analysis/Findings
 
