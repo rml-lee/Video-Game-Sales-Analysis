@@ -41,9 +41,7 @@ Video Game Sales and Ratings - [Kaggle](https://www.kaggle.com/datasets/thedevas
 ## Data Cleaning & Exploration
 In this section, you'll find a Jupyter Notebook that demonstrates my proficiency in data cleaning and exploration using pandas. This notebook showcases various techniques to clean and preprocess raw data, ensuring that it's ready for analysis.
 
-You can access the Jupyter Notebook file using the link below:
-
-[Data Cleaning & Exploration - Video Game Sales and Ratings](https://github.com/rml-lee/MYSQL-Tableau-Video-Games-Project/blob/main/Data%20Cleaning%20%26%20Exploration%20-%20Video%20Games%20Data.ipynb)
+You can access the Jupyter Notebook file [here](https://github.com/rml-lee/MYSQL-Tableau-Video-Games-Project/blob/main/Data%20Cleaning%20%26%20Exploration%20-%20Video%20Games%20Data.ipynb)
 
 ## Data Schema
 After cleaning the data, this is our schema that will be used throughout this project.
