@@ -41,7 +41,7 @@ Video Game Sales and Ratings - [Kaggle](https://www.kaggle.com/datasets/thedevas
 ## Data Cleaning & Exploration
 In this section, you'll find a Jupyter Notebook that demonstrates my proficiency in data cleaning and exploration using pandas. This notebook showcases various techniques to clean and preprocess raw data, ensuring that it's ready for analysis.
 
-You can access the Jupyter Notebook file [here](https://github.com/rml-lee/MYSQL-Tableau-Video-Games-Project/blob/main/Data%20Cleaning%20%26%20Exploration%20-%20Video%20Games%20Data.ipynb)
+You can access the Jupyter Notebook file [here](https://github.com/rml-lee/MYSQL-Tableau-Video-Games-Project/blob/main/Data%20Cleaning%20%26%20Exploration%20-%20Video%20Games%20Data.ipynb).
 
 ## Data Schema
 After cleaning the data, this is our schema that will be used throughout this project.
@@ -52,6 +52,6 @@ After cleaning the data, this is our schema that will be used throughout this pr
 The provided SQL script contains a set of questions with queries used to gather insight about this dataset using MYSQL. You can access the SQL file [here](https://github.com/rml-lee/MYSQL-Tableau-Video-Games-Project/blob/main/Video%20Games%20Project.sql).
 
 # Analysis/Findings
-I will conclude by providing an analysis of the results from a few of the questions provided. This section will also include visuals for our data and discussing the implications and potential impact on the business or research problem at hand. The goal is to provide a thorough and actionable understanding of the data, guiding informed decision-making.
+I will conclude by providing an analysis of the results from a few of the questions provided within the SQL file. This section will also include visuals for our data and discussing the implications and potential impact on the business or research problem at hand. The goal is to provide a thorough and actionable understanding of the data, guiding informed decision-making.
 
-You can review the results here.
+You can review the results [here](https://github.com/rml-lee/MYSQL-Tableau-Video-Games-Project/blob/main/Summary-Findings.md).
