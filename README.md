@@ -1,12 +1,12 @@
 # Video-Games-Project
 
 # Business Task
-Video games have been a long-time hobby and passion of mine. I've been playing video game since the 90's and it has been very i We will be analyzing this dataset 
+Video games have been a long-time hobby and passion of mine. As someone who's been interested in gaming since the '90s, I'm excited to find insights and look at some of the trends to get an overall view of how the gaming industry has evolved over the years.
 
 ## Table of Contents
 - [Data Source](#data-source)
 - [Data Dictionary](#data-dictionary)
-- [Data Cleaning](#data-cleaning)
+- [Data Cleaning & Exploration](#data-cleaning-exploration)
 - [Data Schema](#data-schema)
 - [Data Transformation](#data-transformation)
 - [Analysis/Findings](#analysisfindings)
@@ -38,13 +38,12 @@ Video Game Sales and Ratings - [Kaggle](https://www.kaggle.com/datasets/thedevas
 | Developer         | The company that developed the game.                                |
 | Rating            | The ESRB rating of the game, such as E for Everyone, T for Teen, or M for Mature. |
 
-## Data Cleaning
-Effective data analysis begins with ensuring the data is clean and well-structured.
+## Data Cleaning & Exploration
+In this section, you'll find a Jupyter Notebook that demonstrates my proficiency in data cleaning and exploration using pandas. This notebook showcases various techniques to clean and preprocess raw data, ensuring that it's ready for analysis.
 
-To facilitate this process, i've provided a SQL script that performs the necessary data cleaning operations. The script is a stored procedure. By running this script, the dataset is prepared for accurate and reliable analysis.
-The procedure will be called during the Data Transformation phase of this project. 
+You can access the Jupyter Notebook in the link below:
 
-You can access the SQL file for data cleaning [here](https://github.com/rml-lee/MYSQL-Tableau-Video-Games-Project/blob/main/Data%20Cleaning%20-%20Stored%20Procedure.sql).
+[Link](https://github.com/rml-lee/MYSQL-Tableau-Video-Games-Project/blob/main/Data%20Cleaning%20%26%20Exploration%20-%20Video%20Games%20Data.ipynb).
 
 ## Data Schema
 After cleaning the data, this is our schema that will be used throughout this project.
