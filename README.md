@@ -59,9 +59,23 @@ After cleaning the data, this is our schema that will be used throughout this pr
 <img src="https://github.com/rml-lee/MYSQL-Tableau-Video-Games-Project/blob/main/video_games%20schema.png" alt="Description" width="500"/>
 
 # Data Transformation
+
+Tools used:
+| MySQL |
+| ----- |
+| <img src="https://github.com/rml-lee/MYSQL-Tableau-Video-Games-Project/assets/160198611/a1f80d2c-f675-4c97-b497-f21377fd0042" width="55" height="55"/> |
+
+
 The provided SQL script contains a set of questions with queries used to gather insight about this dataset using MYSQL. You can access the SQL file [here](https://github.com/rml-lee/MYSQL-Tableau-Video-Games-Project/blob/main/Video%20Games%20Project.sql).
 
 # Analysis/Findings
+
+Tools used:
+| Tableau |
+| ------- |
+| <img src="https://github.com/rml-lee/MYSQL-Tableau-Video-Games-Project/assets/160198611/fb9f12dc-8640-4197-b3f6-ab0ce2241bc1" width="55" height="55"/> |
+
+
 I will conclude by providing an analysis of the results from a few of the questions provided within the SQL file. This section will also include visuals for our data and discussing the implications and potential impact on the business or research problem at hand. The goal is to provide a thorough and actionable understanding of the data, guiding informed decision-making.
 
 You can review the results [here](https://github.com/rml-lee/MYSQL-Tableau-Video-Games-Project/blob/main/Summary-Findings.md).
