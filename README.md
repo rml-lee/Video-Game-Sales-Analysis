@@ -3,6 +3,8 @@
 # Business Task
 Video games have been a long-time hobby and passion of mine. As someone who has been a gamer since the '90s, I'm excited to gather insights and trends to get a comprehensive overview of how the gaming industry has evolved over the years.
 
+Domain: Entertainment and media, with specific focus on retail and e-commerce, consumer behavior, and market analysis within the video game industry.
+
 ## Table of Contents
 - [Data Source](#data-source)
 - [Data Dictionary](#data-dictionary)
