@@ -1,7 +1,7 @@
 # Video-Games-Project
 
 # Business Task
-Video games have been a long-time hobby and passion of mine. As someone who's been interested in gaming since the '90s, I'm excited to find insights and look at some of the trends to get an overall view of how the gaming industry has evolved over the years.
+Video games have been a long-time hobby and passion of mine. As someone who has been a gamer since the '90s, I'm excited to gather insights and trends to get a comprehensive overview of how the gaming industry has evolved over the years.
 
 ## Table of Contents
 - [Data Source](#data-source)
