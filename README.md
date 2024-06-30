@@ -41,8 +41,12 @@ Video Game Sales and Ratings - [Kaggle](https://www.kaggle.com/datasets/thedevas
 ## Data Cleaning & Exploration
 
 Tools used:
+| Conda | Python | Jupyter | Pandas | Numpy |
+|--------|-------|---------|--------|-------|
+| <img src="https://github.com/rml-lee/MYSQL-Tableau-Video-Games-Project/assets/160198611/752b8489-df2a-457b-ab2e-294b34774a78" width="55" height="55"/> | <img src="https://github.com/rml-lee/MYSQL-Tableau-Video-Games-Project/assets/160198611/0eaa37ae-7fac-4c29-b971-c6a2f9e55767" width="55" height="55"/> | <img src="https://github.com/rml-lee/MYSQL-Tableau-Video-Games-Project/assets/160198611/029ca083-0c94-40b2-96bc-5a4ccd5199bb" width="50" height="55"/> | <img src="https://github.com/rml-lee/MYSQL-Tableau-Video-Games-Project/assets/160198611/1f1bf784-7c28-491e-9c70-d78a8cfd9ec3" width="55" height="55"/> | <img src="https://github.com/rml-lee/MYSQL-Tableau-Video-Games-Project/assets/160198611/4f8dfc79-a05f-4c0a-ade3-e55b85be1c7c" width="55" height="55"/> |
 
-| Python3 | C | JS | Solidity | GO |
+
+
 
 
 In this section, you'll find a Jupyter Notebook that demonstrates my proficiency in data cleaning and exploration using pandas. This notebook showcases various techniques to clean and preprocess raw data, ensuring that it's ready for analysis.
