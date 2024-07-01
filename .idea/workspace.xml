@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="7058ab4d-18db-440a-ab94-6298a1e3854f" name="Changes" comment="update">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data Cleaning &amp; Exploration - Video Games Data.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Data Cleaning &amp; Exploration - Video Games Data.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -129,6 +130,10 @@
       <workItem from="1719780867709" duration="33000" />
       <workItem from="1719783171463" duration="244000" />
       <workItem from="1719785695105" duration="11000" />
+      <workItem from="1719786007323" duration="138000" />
+      <workItem from="1719833348195" duration="1070000" />
+      <workItem from="1719835297034" duration="1467000" />
+      <workItem from="1719839930560" duration="661000" />
     </task>
     <task id="LOCAL-00001" summary="update">
       <option name="closed" value="true" />
@@ -290,7 +295,15 @@
       <option name="project" value="LOCAL" />
       <updated>1719765284627</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="update">
+      <option name="closed" value="true" />
+      <created>1719786042179</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1719786042179</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
