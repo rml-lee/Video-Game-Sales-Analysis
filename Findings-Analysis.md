@@ -3,7 +3,7 @@
 
 Tableau - [Link](https://public.tableau.com/views/Workbook1VideoGamesProject_17181999320180/GroupedBar?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
 
-![Grouped Bar](https://github.com/rml-lee/MYSQL-Tableau-Video-Games-Project/assets/160198611/a052ae42-32b2-42fb-8f3c-d895aa338ffb)
+![Grouped Bar](https://github.com/rml-lee/MYSQL-Tableau-Video-Games-Project/assets/160198611/c6881bda-c70e-4576-abb5-4e0580976ffc)
 
 - North America is the largest market for video games with the top 3 most popular genres being action, sports, and first-person shooter games.
 
