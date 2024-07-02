@@ -1,9 +1,9 @@
 # Findings & Analysis
 ## 3. What are the total sales for each region per genre?
 
-Tableau - [Link](https://public.tableau.com/views/Workbook1VideoGamesProject_17181999320180/GroupedBar2?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
+Tableau - [Link](https://public.tableau.com/views/Workbook1VideoGamesProject_17181999320180/GroupedBar?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
 
-![Grouped Bar 2](https://github.com/rml-lee/MYSQL-Tableau-Video-Games-Project/assets/160198611/f2b0df7d-af2f-469b-b324-eeae39d21dcb)
+![Grouped Bar](https://github.com/rml-lee/MYSQL-Tableau-Video-Games-Project/assets/160198611/a052ae42-32b2-42fb-8f3c-d895aa338ffb)
 
 - North America is the largest market for video games with the top 3 most popular genres being action, sports, and first-person shooter games.
 
