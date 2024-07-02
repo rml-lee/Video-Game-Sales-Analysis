@@ -23,7 +23,8 @@ Tableau - [Link](https://public.tableau.com/views/Workbook1VideoGamesProject_171
 
 ![Dual Combination](https://github.com/rml-lee/MYSQL-Tableau-Video-Games-Project/assets/160198611/125c2a9b-90d9-4747-814b-c23512bed499)
 
-- During the '90s, platformers and role-playing games were the most popular genres. This was due to the debut of platforming games like Super Mario Bros. and Sonic the Hedgehog, and RPGs such as Dragon Quest being highly successful in Japan. Pokemon was also a very popular RPG worldwide.
+- During the '90s, platformers and role-playing games were the most popular genres. This was due to the debut of platforming games like Super Mario Bros. and Sonic the Hedgehog.
+- RPGs such as Dragon Quest were highly successful in Japan and Pokemon grew to be a very popular RPG worldwide.
 
 - As we go into the 2000's, the popularity of action games increase significantly. This is due to video games market expanding and becoming more popular as a medium. The action game genre encompasses many different genres, including platformers.
 
