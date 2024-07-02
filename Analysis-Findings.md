@@ -13,7 +13,9 @@ Tableau - [Link](https://public.tableau.com/views/Workbook1VideoGamesProject_171
 
 - For all other regions, they follow a similar trend as North America and Europe with Action, Sports, and First-Person Shooters being the most popular.
 
-- Recommendations: It's important to customize game development and marketing strategies to suit regional tastes. When doing a Action, Sports, or FPS, North America or Europe have the highest chance for success. When it comes to RPG's or Action games, Japan is a great market to tap into.
+- Recommendations: It's important to customize game development and marketing strategies to suit regional tastes.
+- When developing action, sports, or FPS games, targeting North America or Europe offers the highest chance for success.
+- When it comes to RPG's or Action games, Japan is a great market to tap into.
 
 ## 5. What has been the highest performing genre per year along with it's number of releases?
 
