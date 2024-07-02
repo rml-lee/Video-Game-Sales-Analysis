@@ -1,4 +1,4 @@
-# Analysis & Findings
+# Findings & Analysis
 ## 3. What are the total sales for each region per genre?
 
 Tableau - [Link](https://public.tableau.com/views/Workbook1VideoGamesProject_17181999320180/GroupedBar2?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
