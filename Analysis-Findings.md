@@ -5,13 +5,13 @@ Tableau - [Link](https://public.tableau.com/views/Workbook1VideoGamesProject_171
 
 ![Grouped Bar 2](https://github.com/rml-lee/MYSQL-Tableau-Video-Games-Project/assets/160198611/f2b0df7d-af2f-469b-b324-eeae39d21dcb)
 
-- North America is the largest market for video games with the top 3 most popular genres being Action, Sports, and First-Person Shooter games.
+- North America is the largest market for video games with the top 3 most popular genres being action, sports, and first-person shooter games.
 
-- Europe is the second largest with Action, Sports, and First-Person Shooter games as the most popular.
+- Europe is the second largest with action, sports, and first-person shooter games as the most popular.
 
-- Japan is the third-largest market with Role-Playing and Action games being the most popular.
+- Japan is the third-largest market with role-playing and action games being the most popular.
 
-- For all other regions, they follow a similar trend as North America and Europe with Action, Sports, and First-Person Shooters being the most popular.
+- For all other regions, they follow a similar trend as North America and Europe with action, sports, and first-oerson shooters being the most popular.
 
 - Recommendations: It's important to customize game development and marketing strategies to suit regional tastes.
 - When developing action, sports, or FPS games, targeting North America or Europe offers the highest chance for success.
