@@ -11,7 +11,7 @@ Video games have been a long-time hobby and passion of mine. As someone who has 
 - [Data Cleaning & Exploration](#data-cleaning--exploration)
 - [Data Schema](#data-schema)
 - [Data Transformation](#data-transformation)
-- [Analysis & Findings](#analysis--findings)
+- [Findings & Analysis](#findings--analysis)
 
 # Data Source
 Video Game Sales and Ratings - [Kaggle](https://www.kaggle.com/datasets/thedevastator/video-game-sales-and-ratings)
@@ -70,7 +70,7 @@ The provided SQL script contains a set of questions with queries used to gather 
 
 You can access the SQL file [here](https://github.com/rml-lee/MYSQL-Tableau-Video-Games-Project/blob/main/Video%20Games%20Project.sql).
 
-# Analysis & Findings
+# Findings & Analysis
 
 Tools used:
 | Tableau |
