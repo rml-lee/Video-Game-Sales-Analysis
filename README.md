@@ -1,7 +1,7 @@
 # Video-Games-Project
 
 # Business Task
-This project focuses on analyzing a dataset of video games to uncover insights into sales performance, geographic distribution, and critical reception. The dataset contains detailed information about video games, including sales data, critic and user ratings, and other relevant attributes.
+This project focuses on analyzing a dataset of historical releases of video games to uncover insights into sales performance, geographic distribution, and critical reception. The dataset contains detailed information about video games, including sales data, critic and user ratings, and other relevant attributes.
 
 **Domain**: Entertainment and media, with specific focus on retail and e-commerce, consumer behavior, and market analysis within the video game industry.
 
