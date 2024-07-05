@@ -17,7 +17,7 @@
           <entry type="LOCAL">
             <value>
               <list>
-                <branch-info repo="$USER_HOME$/Documents/Portfolio Projects" source="master" />
+                <branch-info repo="$PROJECT_DIR$/../../Portfolio Projects" source="master" />
                 <branch-info repo="$PROJECT_DIR$" source="main" />
               </list>
             </value>
@@ -43,12 +43,12 @@
     &quot;state&quot;: &quot;OPEN&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings">{
-  &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/rml-lee/MYSQL-Tableau-Video-Games-Project.git&quot;,
-    &quot;accountId&quot;: &quot;4d16bd33-7ea1-4be1-b1b7-8eca25126e56&quot;
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/rml-lee/Video-Game-Sales-Analysis.git",
+    "accountId": "9e98256b-2ca0-47b3-9fb8-c66774c753cc"
   }
-}</component>
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 3
 }</component>
@@ -133,6 +133,7 @@
       <workItem from="1719839930560" duration="3123000" />
       <workItem from="1719935274323" duration="407000" />
       <workItem from="1720119952981" duration="18000" />
+      <workItem from="1720193438697" duration="147000" />
     </task>
     <task id="LOCAL-00001" summary="update">
       <option name="closed" value="true" />
@@ -409,8 +410,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <ignored-roots>
-      <path value="$USER_HOME$/Documents/Portfolio Projects" />
-      <path value="$USER_HOME$/Documents/Portfolio Projects/1. Video Games Project" />
+      <path value="$PROJECT_DIR$/../../Portfolio Projects" />
+      <path value="$PROJECT_DIR$/../../Portfolio Projects/1. Video Games Project" />
     </ignored-roots>
     <MESSAGE value="Test Commit" />
     <MESSAGE value="update" />
