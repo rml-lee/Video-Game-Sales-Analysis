@@ -1,7 +1,7 @@
 # Video-Games-Project
 
 # Business Task
-Video games have been a long-time hobby and passion of mine. As someone who has been a gamer since the '90s, I'm excited to gather insights and trends to gain a comprehensive overview of how the gaming industry has evolved globally over the years.
+This project focuses on analyzing a dataset of video games to uncover insights into sales performance, geographic distribution, and critical reception. The dataset contains detailed information about video games, including sales data, critic and user ratings, and other relevant attributes.
 
 **Domain**: Entertainment and media, with specific focus on retail and e-commerce, consumer behavior, and market analysis within the video game industry.
 
