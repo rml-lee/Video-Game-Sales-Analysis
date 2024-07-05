@@ -1,4 +1,4 @@
-# Video Game Sales and Ratings Analysis
+#  <h1 align="center"> Video Game Sales and Ratings Analysis </h1>
 
 # Business Task
 This project focuses on analyzing a dataset of historical releases of video games to uncover insights into sales performance, geographic distribution, and critical reception. The dataset contains detailed information about video games, including sales data, critic and user ratings, and other relevant attributes.
