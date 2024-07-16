@@ -33,7 +33,7 @@ Tableau - [Link](https://public.tableau.com/views/Workbook1VideoGamesProject_171
 
 ## 9. How has the sales distribution among the top 5 publishers varied over time?
 
-**Tableau** - [Link](https://public.tableau.com/views/Workbook1VideoGamesProject_17181999320180/AreaChart?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
+Tableau - [Link](https://public.tableau.com/views/Workbook1VideoGamesProject_17181999320180/AreaChart?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
 
 ![Area Chart](https://github.com/rml-lee/MYSQL-Tableau-Video-Games-Project/assets/160198611/e7ab02a8-01b2-4d1c-89f7-1b43f1cc96bc)
 
