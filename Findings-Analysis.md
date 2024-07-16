@@ -13,6 +13,7 @@ Tableau - [Link](https://public.tableau.com/views/Workbook1VideoGamesProject_171
 
 - For all other regions, they follow a similar trend as **North America** and **Europe** with **action**, **sports**, and **first-person shooters** being the most popular.
 
+
 - **Recommendations**: It's important to customize game development and marketing strategies to suit regional tastes.
 - When developing action, sports, or FPS games, targeting North America or Europe offers the highest chance for success.
 - When it comes to RPG's or Action games, Japan is a great market to tap into.
