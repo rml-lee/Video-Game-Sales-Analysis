@@ -56,7 +56,7 @@ You can access the Jupyter Notebook file [here](https://github.com/rml-lee/MYSQL
 
 After cleaning the data, this is our schema that will be used throughout this project.
 
-<img src="https://github.com/rml-lee/MYSQL-Tableau-Video-Games-Project/blob/main/video_games%20schema.png" alt="Description" width="450"/>
+<img src="https://github.com/rml-lee/MYSQL-Tableau-Video-Games-Project/blob/main/video_games%20schema.png" alt="Description" width="400"/>
 
 # Data Transformation
 
