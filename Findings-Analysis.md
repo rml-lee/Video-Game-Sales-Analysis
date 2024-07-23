@@ -22,7 +22,8 @@ Tableau - [Link](https://public.tableau.com/views/Workbook1VideoGamesProject_171
 
 Tableau - [Link](https://public.tableau.com/views/Workbook1VideoGamesProject_17181999320180/DualCombination?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
 
-![Dual Combination](https://github.com/rml-lee/MYSQL-Tableau-Video-Games-Project/assets/160198611/125c2a9b-90d9-4747-814b-c23512bed499)
+![Dual Combination](https://github.com/user-attachments/assets/90065e58-ec60-426c-bc7b-224a32128cc8)
+
 
 - During the '90s, platformers and role-playing games were the most popular genres. This was due to the debut of platforming games like Super Mario Bros. and Sonic the Hedgehog. RPGs such as Dragon Quest were also highly successful in Japan and Pokemon grew to be a very popular RPG worldwide.
 
