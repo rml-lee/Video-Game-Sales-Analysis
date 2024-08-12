@@ -39,4 +39,4 @@ Tableau - [Link](https://public.tableau.com/views/Workbook1VideoGamesProject_171
 ![Area Chart](https://github.com/rml-lee/MYSQL-Tableau-Video-Games-Project/assets/160198611/e7ab02a8-01b2-4d1c-89f7-1b43f1cc96bc)
 
 - Sony and Nintendo were the biggest publishers during the late '90s, but as time went on, Nintendo, Ubisoft, Activision, and EA grew significantly. 
-- This was primarily due to the success of the Nintendo Wii. It was the most popular console during the 7th generation and Wii Sports (published by Nintendo) became the fourth selling game of all time. EA, Activision, and Ubisoft also played a massive role in publishing high-selling action games that significantly expanded the video game market.
+- This was primarily due to the success of the Nintendo Wii, which was the most popular console of the 7th generation. Wii Sports, published by Nintendo, became the fourth best-selling game of all time. Additionally, EA, Activision, and Ubisoft played a significant role by publishing high-selling action games, which greatly expanded the video game market.
