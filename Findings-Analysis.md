@@ -60,6 +60,6 @@ Tableau - [Link](https://public.tableau.com/views/Workbook1VideoGamesProject_171
   
 - Poorly rated games do not perform well in the market.
 
-- In summary, while critic ratings influence game sales, they are not the sole factor. Other considerations like genre, system install base, marketing, and timing also play significant roles in determining a game's sales.
+- In summary, while critic ratings influence game sales, they are not the sole factor. Other considerations like genre, system install base, intellectual property (IP) strength, marketing, and timing also play significant roles in determining a game's sales.
 
 
