@@ -53,7 +53,7 @@ Tableau - [Link](https://public.tableau.com/views/Workbook1VideoGamesProject_171
 
 ![Bar Chart-2](https://github.com/user-attachments/assets/cdbd8cc4-ebeb-46f7-8ab8-dee68ff71c8f)
 
-- Games that are **Generally Favorable** or **Mixed** tend to sell the **most** while games that are **Universally Acclaimed** or **Disliked** tend to to sell the **least**. This indicates that having the highest rated game doesn't neccessarly always result in higher sales.
+- Games that are **Generally Favorable** or **Mixed** tend to sell the **most** while games that are **Universally Acclaimed** or **Disliked** tend to sell the **least**. This indicates that having the highest rated game doesn't neccessarly always result in higher sales.
   
 - This is likely because games that are universally acclaimed excel within a specific niche genre, which may result in lower sales. In contrast, generally favorable games are also of great quality but succeed in genres with broader appeal, potentially leading to higher sales.
   
