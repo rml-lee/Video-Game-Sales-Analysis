@@ -46,3 +46,19 @@ Tableau - [Link](https://public.tableau.com/views/Workbook1VideoGamesProject_171
 
 - Sony and Nintendo were the biggest publishers during the late '90s, but as time went on, Nintendo, Ubisoft, Activision, and EA grew significantly. 
 - This was primarily due to the success of the Nintendo Wii, which was the most popular console of the 7th generation. Wii Sports, published by Nintendo, became the fourth best-selling game of all time. Additionally, EA, Activision, and Ubisoft played a significant role by publishing high-selling action games, which greatly expanded the video game market.
+
+## 10. What is the relationship between critic scores and game sales? Do critic scores impact the sales of games?
+
+Tableau - [Link](https://public.tableau.com/views/Workbook1VideoGamesProject_17181999320180/BarChart?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
+![Bar Chart-2](https://github.com/user-attachments/assets/cdbd8cc4-ebeb-46f7-8ab8-dee68ff71c8f)
+
+- Games that are **Generally Favorable** or **Mixed** tend to sell the **most** while games that are **Universally Acclaimed** or **Disliked** tend to to sell the **least**. This indicates that having the highest rated game doesn't neccessarly always result in higher sales.
+  
+- This is likely because games that are universally acclaimed excel within a specific niche genre, which may result in lower sales. In contrast, generally favorable games are also of great quality but succeed in genres with broader appeal, potentially leading to higher sales.
+  
+- Poorly rated games do not perform well in the market.
+
+- In summary, while critic ratings influence game sales, they are not the sole factor. Other considerations like genre, system install base, marketing, and timing also play significant roles in determining a game's sales.
+
+
