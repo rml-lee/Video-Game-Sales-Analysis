@@ -192,7 +192,7 @@ WHERE
 
 
 
--- 10. What is the relationship between critic scores and game sales? Do critic scores impact the sales of games?
+-- 10. What is the relationship between critic scores and game sales? Do critic scores affect game sales?
 SELECT
     CASE
         WHEN critic_score >= 90 THEN 'Universal Acclaim'

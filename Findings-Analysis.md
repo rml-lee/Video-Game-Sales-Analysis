@@ -48,7 +48,7 @@ Tableau - [Link](https://public.tableau.com/views/Workbook1VideoGamesProject_171
   
 - This was primarily due to the success of the Nintendo Wii, which was the most popular console of the 7th generation. Wii Sports, published by Nintendo, became the fourth best-selling game of all time. Additionally, EA, Activision, and Ubisoft played a significant role by publishing high-selling action games, which greatly expanded the video game market.
 
-## 10. What is the relationship between critic scores and game sales? Do critic scores impact the sales of games?
+## 10. What is the relationship between critic scores and game sales? Do critic scores affect game sales?
 
 Tableau - [Link](https://public.tableau.com/views/Workbook1VideoGamesProject_17181999320180/BarChart?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 

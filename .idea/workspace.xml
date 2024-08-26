@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7058ab4d-18db-440a-ab94-6298a1e3854f" name="Changes" comment="update" />
+    <list default="true" id="7058ab4d-18db-440a-ab94-6298a1e3854f" name="Changes" comment="update">
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/d0e65635-8cae-4ace-a1f2-59cfa10a7b5a.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/d0e65635-8cae-4ace-a1f2-59cfa10a7b5a.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -43,12 +47,12 @@
     &quot;state&quot;: &quot;OPEN&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/rml-lee/Video-Game-Sales-Analysis.git",
-    "accountId": "9e98256b-2ca0-47b3-9fb8-c66774c753cc"
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/rml-lee/Video-Game-Sales-Analysis.git&quot;,
+    &quot;accountId&quot;: &quot;9e98256b-2ca0-47b3-9fb8-c66774c753cc&quot;
   }
-}]]></component>
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 3
 }</component>
@@ -82,8 +86,8 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-PY-241.18034.82" />
-        <option value="bundled-python-sdk-975db3bf15a3-2767605e8bc2-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-241.18034.82" />
+        <option value="bundled-js-predefined-d6986cc7102b-410509235cf1-JavaScript-PY-242.20224.347" />
+        <option value="bundled-python-sdk-c2d6afa66fbe-39cff9de6eef-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-242.20224.347" />
       </set>
     </attachedChunks>
   </component>
@@ -134,6 +138,24 @@
       <workItem from="1719935274323" duration="407000" />
       <workItem from="1720119952981" duration="18000" />
       <workItem from="1720193438697" duration="147000" />
+      <workItem from="1720194438664" duration="158000" />
+      <workItem from="1720194624935" duration="16000" />
+      <workItem from="1720195338807" duration="23000" />
+      <workItem from="1720195390231" duration="25000" />
+      <workItem from="1720195638534" duration="3000" />
+      <workItem from="1720195984481" duration="10000" />
+      <workItem from="1720199423015" duration="22000" />
+      <workItem from="1720213601657" duration="61000" />
+      <workItem from="1721741496434" duration="26000" />
+      <workItem from="1722371517427" duration="654000" />
+      <workItem from="1724268097774" duration="479000" />
+      <workItem from="1724268818756" duration="29000" />
+      <workItem from="1724273199206" duration="25000" />
+      <workItem from="1724273547069" duration="15000" />
+      <workItem from="1724328500057" duration="741000" />
+      <workItem from="1724334094890" duration="120000" />
+      <workItem from="1724335293476" duration="20000" />
+      <workItem from="1724335673544" duration="27000" />
     </task>
     <task id="LOCAL-00001" summary="update">
       <option name="closed" value="true" />
@@ -359,7 +381,15 @@
       <option name="project" value="LOCAL" />
       <updated>1720119960127</updated>
     </task>
-    <option name="localTasksCounter" value="29" />
+    <task id="LOCAL-00029" summary="update">
+      <option name="closed" value="true" />
+      <created>1720194538709</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1720194538709</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
