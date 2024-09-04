@@ -92,7 +92,7 @@ ORDER BY 1 ASC;
 
 
 -- 6. What is the market share percentage of Action games that are sold per region?
-WITH a AS
+WITH regional_action_sales AS
         (SELECT
              genre,
              ROUND(SUM(na_sales), 2) AS total_na_sales,
@@ -109,7 +109,7 @@ SELECT
     'North America' AS region,
     ROUND((total_na_sales / total_global_sales) * 100, 2) AS percentage
 FROM
-    a
+    regional_action_sales
 
 UNION ALL
 
@@ -117,7 +117,7 @@ SELECT
     'Europe' AS region,
     ROUND((total_eu_sales / total_global_sales) * 100, 2) AS percentage
 FROM
-    a
+    regional_action_sales
 
 UNION ALL
 
@@ -125,7 +125,7 @@ SELECT
     'Japan' AS region,
     ROUND((total_jp_sales / total_global_sales) * 100, 2) AS percentage
 FROM
-    a
+    regional_action_sales
 
 UNION ALL
 
@@ -133,7 +133,7 @@ SELECT
     'Other' AS region,
     ROUND((total_other_sales / total_global_sales) * 100, 2) AS percentage
 FROM
-    a;
+    regional_action_sales;
 
 
 
