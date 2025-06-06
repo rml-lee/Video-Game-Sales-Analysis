@@ -8,7 +8,7 @@
 
 Tableau - [Link](https://public.tableau.com/views/Workbook1VideoGamesProject_17181999320180/GroupedBar?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
 
-![Grouped Bar](https://github.com/user-attachments/assets/847592c5-6837-40b2-a0cb-9f0c7115d118)
+![Grouped Bar](https://github.com/user-attachments/assets/1141d8a1-b1e0-4472-a4e4-eab5d7068f59)
 
 
 - **North America** is the largest market for video games with the top 3 most popular genres being **action**, **sports**, and **first-person shooter** games.
@@ -28,7 +28,7 @@ Tableau - [Link](https://public.tableau.com/views/Workbook1VideoGamesProject_171
 
 Tableau - [Link](https://public.tableau.com/views/Workbook1VideoGamesProject_17181999320180/DualCombination?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
 
-![Dual Combination](https://github.com/user-attachments/assets/90065e58-ec60-426c-bc7b-224a32128cc8)
+![Dual Combination](https://github.com/user-attachments/assets/0c54b961-d4db-453b-8420-772c91090b6f)
 
 
 - During the '90s, platformers and role-playing games were the most popular genres. This was due to the debut of platforming games like Super Mario Bros. and Sonic the Hedgehog. RPGs such as Dragon Quest were also highly successful in Japan and Pokemon grew to be a very popular RPG worldwide.
@@ -42,7 +42,7 @@ Tableau - [Link](https://public.tableau.com/views/Workbook1VideoGamesProject_171
 
 Tableau - [Link](https://public.tableau.com/views/Workbook1VideoGamesProject_17181999320180/AreaChart?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
 
-![Area Chart](https://github.com/rml-lee/MYSQL-Tableau-Video-Games-Project/assets/160198611/e7ab02a8-01b2-4d1c-89f7-1b43f1cc96bc)
+![Area Chart](https://github.com/user-attachments/assets/93b4b96d-2278-459a-9cc5-a115e9fe3d27)
 
 - Sony and Nintendo were the biggest publishers during the late '90s, but as time went on, Nintendo, Ubisoft, Activision, and EA grew significantly.
   
@@ -52,7 +52,7 @@ Tableau - [Link](https://public.tableau.com/views/Workbook1VideoGamesProject_171
 
 Tableau - [Link](https://public.tableau.com/views/Workbook1VideoGamesProject_17181999320180/BarChart?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
-![Bar Chart-2](https://github.com/user-attachments/assets/cdbd8cc4-ebeb-46f7-8ab8-dee68ff71c8f)
+![Bar Chart](https://github.com/user-attachments/assets/90bdf756-e20e-4f00-b0d8-4936121d9963)
 
 - Games that are **Generally Favorable** or **Mixed** tend to sell the **most** while games that are **Universally Acclaimed** or **Disliked** tend to sell the **least**. This indicates that having the highest rated game doesn't neccessarly always result in higher sales.
   
