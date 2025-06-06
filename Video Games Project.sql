@@ -161,7 +161,7 @@ FROM
 -- 8. Who are the Top 10 selling publishers?
 SELECT
     publisher,
-    ROUND(SUM(global_sales), 2) AS total_copies_sold,
+    ROUND(SUM(global_sales), 2) AS total_units_sold,
     DENSE_RANK() OVER (ORDER BY ROUND(SUM(global_sales), 2) DESC) AS rnk
 FROM
     video_games
@@ -174,12 +174,12 @@ LIMIT 10;
 SELECT
     year_of_release,
     publisher,
-    total_copies_sold
+    total_units_sold
 FROM
     (SELECT
          year_of_release,
          publisher,
-         ROUND(SUM(global_sales), 2) AS total_copies_sold,
+         ROUND(SUM(global_sales), 2) AS total_units_sold,
          DENSE_RANK() OVER (PARTITION BY year_of_release ORDER BY ROUND(SUM(global_sales), 2) DESC) AS rnk
      FROM
          video_games
@@ -200,7 +200,7 @@ SELECT
         WHEN critic_score BETWEEN 50 AND 74 THEN 'Mixed or Average'
         ELSE 'Overwhelmingly Dislike'
     END AS critic_rating,
-    ROUND(SUM(global_sales), 2) AS total_copies_sold
+    ROUND(SUM(global_sales), 2) AS total_units_sold
 FROM
     video_games
 WHERE
