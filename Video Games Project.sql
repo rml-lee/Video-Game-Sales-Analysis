@@ -3,7 +3,7 @@
 
 # -----------------------------------------------------------------------------------------------------------
 
--- Note: Sales in this dataset aren't listed as revenue, they are physical sales figures!
+-- Note: In this dataset, sales refers to physical units sold, not revenue!
 
 # -----------------------------------------------------------------------------------------------------------
 
