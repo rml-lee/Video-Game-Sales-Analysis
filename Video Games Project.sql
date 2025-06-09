@@ -76,6 +76,7 @@ max_sales_per_year AS
     FROM
         total_sales_per_genre
     GROUP BY 1)
+
 SELECT
     t.year_of_release,
     t.genre,
@@ -105,6 +106,7 @@ WITH regional_action_sales AS
          WHERE
              genre = 'Action'
          GROUP BY 1)
+
 SELECT
     'North America' AS region,
     ROUND((total_na_sales / total_global_sales) * 100, 2) AS percentage
