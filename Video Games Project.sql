@@ -84,8 +84,7 @@ SELECT
     t.n_of_releases
 FROM
     total_sales_per_genre t
-JOIN
-    max_sales_per_year m
+    JOIN max_sales_per_year m
     ON t.year_of_release = m.year_of_release
     AND t.total_sales = m.max_total_sales
 ORDER BY 1 ASC;
