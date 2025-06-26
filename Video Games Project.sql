@@ -58,8 +58,8 @@ HAVING SUM(jp_sales) > SUM(na_sales);
 
 
 -- 5. What has been the highest performing genre per year along with it's number of releases?
-WITH total_sales_per_genre AS
-    (SELECT
+WITH total_sales_per_genre AS (
+    SELECT
         year_of_release,
         genre,
         COUNT(*) AS n_of_releases,
@@ -67,15 +67,17 @@ WITH total_sales_per_genre AS
     FROM
         video_games
     GROUP BY 1, 2
-    ORDER BY 1 ASC),
+    ORDER BY 1 ASC
+),
 
-max_sales_per_year AS
-    (SELECT
+max_sales_per_year AS (
+    SELECT
         year_of_release,
         MAX(total_sales) AS max_total_sales
     FROM
         total_sales_per_genre
-    GROUP BY 1)
+    GROUP BY 1
+)
 
 SELECT
     t.year_of_release,
@@ -92,8 +94,8 @@ ORDER BY 1 ASC;
 
 
 -- 6. What is the market share percentage of Action games that are sold per region?
-WITH regional_action_sales AS
-        (SELECT
+WITH regional_action_sales AS (
+        SELECT
              genre,
              ROUND(SUM(na_sales), 2) AS total_na_sales,
              ROUND(SUM(eu_sales), 2) AS total_eu_sales,
@@ -104,7 +106,8 @@ WITH regional_action_sales AS
              video_games
          WHERE
              genre = 'Action'
-         GROUP BY 1)
+         GROUP BY 1
+)
 
 SELECT
     'North America' AS region,
