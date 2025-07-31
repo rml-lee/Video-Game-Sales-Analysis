@@ -165,11 +165,11 @@ FROM
 -- 8. Who are the Top 10 selling publishers?
 SELECT
     publisher,
-    ROUND(SUM(global_sales), 2) AS total_units_sold,
-    DENSE_RANK() OVER (ORDER BY ROUND(SUM(global_sales), 2) DESC) AS rnk
+    ROUND(SUM(global_sales), 2) AS total_units_sold
 FROM
     video_games
 GROUP BY 1
+ORDER BY 2 DESC
 LIMIT 10;
 
 
