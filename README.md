@@ -6,12 +6,12 @@ This project focuses on analyzing a dataset of historical releases of video game
 **Domain**: Entertainment and media, with specific focus on retail and e-commerce, consumer behavior, and market analysis within the video game industry.
 
 ## Table of Contents
-- [Data Source](#data-source)
-- [Data Dictionary](#data-dictionary)
-- [Data Cleaning & Exploration](#data-cleaning--exploration)
-- [Data Schema](#data-schema)
-- [Data Transformation](#data-transformation)
-- [Findings & Analysis](#findings--analysis)
+- [**Data Source**](#data-source)
+- [**Data Dictionary**](#data-dictionary)
+- [**Data Cleaning & Exploration**](#data-cleaning--exploration)
+- [**Data Schema**](#data-schema)
+- [**Data Transformation**](#data-transformation)
+- [**Findings & Analysis**](#findings--analysis)
 
 # Data Source
 Video Game Sales and Ratings - [Kaggle](https://www.kaggle.com/datasets/thedevastator/video-game-sales-and-ratings)
