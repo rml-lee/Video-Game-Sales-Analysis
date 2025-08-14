@@ -28,6 +28,8 @@ Tableau - [Link](https://public.tableau.com/views/Workbook1VideoGamesProject_171
     
   - When it comes to RPG's or Action games, Japan is a great market to tap into.
 
+---
+
 ## 5. What has been the highest performing genre per year along with it's number of releases?
 
 Tableau - [Link](https://public.tableau.com/views/Workbook1VideoGamesProject_17181999320180/DualCombination?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
@@ -44,6 +46,7 @@ Tableau - [Link](https://public.tableau.com/views/Workbook1VideoGamesProject_171
 
   - Developing a game within one of the sub-genres of action games will have the highest chance for success.
 
+---
 
 ## 9. How has the sales distribution among the top 5 publishers varied over time?
 
@@ -57,6 +60,7 @@ Tableau - [Link](https://public.tableau.com/views/Workbook1VideoGamesProject_171
   
   - This was primarily due to the success of the Nintendo Wii, which was the most popular console of the 7th generation. Wii Sports, published by Nintendo, became the fourth best-selling game of all time. Additionally, EA, Activision, and Ubisoft played a significant role by publishing high-selling action games, which greatly expanded the video game market.
 
+---
 
 ## 10. What is the relationship between critic scores and game sales? Do critic scores affect game sales?
 
