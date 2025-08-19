@@ -3,7 +3,6 @@
 # Business Task
 To analyze historical sales, genre trends, critic scores, and geographic distribution data to identify how the video game market has developed over the years. The insights are designed to help publishers make data-driven decisions regarding development investment, marketing strategies, and market positioning. Beyond its professional value for publishers, some of the findings here are simply meant to be a personal exploration into the dynamics of my favorite hobby.
 
-**Domain**: Entertainment and media, with specific focus on retail and e-commerce, consumer behavior, and market analysis within the video game industry.
 
 ## Table of Contents
 - [**Data Source**](#data-source)
