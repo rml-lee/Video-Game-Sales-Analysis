@@ -1,7 +1,7 @@
 # Video Game Sales and Ratings Analysis
 
 # Business Objective
-This analysis will explore historical sales, genre trends, critic scores, and geographic distribution data to identify how the video game market has developed over the years. The insights are designed to help publishers make data-driven decisions regarding development investment, marketing strategies, and market positioning. Beyond its professional value for publishers, some of the findings here are simply meant to be a personal exploration into the dynamics of my favorite hobby.
+This analysis will explore historical sales, genre trends, critic scores, and geographic distribution data to identify how the video game market has developed over the years. The insights are designed to help publishers make data-driven decisions regarding development investment, marketing strategies, and market positioning. Beyond its professional value for publishers, some of the findings here are simply meant to be a personal exploration into the dynamics of my favorite hobby 😁.
 
 
 # Table of Contents
